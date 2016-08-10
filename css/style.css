@@ -1,0 +1,36 @@
+.jumbotron{
+	text-align: center;
+	background: url(../img/bg.jpg);
+}
+.btn{
+	width: 300px;
+	margin: 20px 50px;
+	border: 2px solid #000;
+}
+.box{
+	width: 80%;
+	margin: 0 auto;
+	margin-bottom: 50px;
+	padding: 20px;
+	background-color: #2682de;
+	border-radius: 10px;
+	border: 5px solid #000;
+	color: #fff;
+	text-shadow: #000 5px 0 3px;
+
+}
+.jumbotron .timer{
+	font-size: 110px;
+	font-weight: bold;
+
+}
+.jumbotron .timer{
+	margin: 0;
+}
+.jumbotron .mili{
+	margin-left: 414px;
+  font-size: 43px;
+}
+.jumbotron button{
+	margin-bottom: 100px;
+}
